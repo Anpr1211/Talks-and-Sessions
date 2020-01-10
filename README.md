@@ -1,2 +1,3 @@
-# Talks-and-Sessions
-Resources of talks given
+| Event | Date | Link |
+| --- | --- | --- |
+| Machine Learning with the Experts | July 6th | |
