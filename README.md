@@ -8,3 +8,4 @@
 | Explore ML Program Overview and Introduction to ML | Women, Show em' how you code! | November 2nd, 2019 | [Slides](https://docs.google.com/presentation/d/1B8NLIbPvI-l0nI8mvtEuD-PMXXWJ1RJq74ZltzxQ9Ic/edit?usp=sharing) |
 | Things to know before making your first ML model | Explore ML - DSC NSEC | January 14th, 2020 | [Slides](https://docs.google.com/presentation/d/1rq4UxPukZpS6bSuWAAEJeFG_Q3GkqwiomgoVDlyVJV8/edit?usp=sharing), [Text](https://towardsdatascience.com/things-to-know-before-you-make-your-1st-ml-model-5ce48c9657f) |
 | Data Science - Online Mentor | COVID Coding Program - Girlscript Foundation | March 25th-30th, 2020 | [Github repo](https://github.com/Anpr1211/Talks-and-Sessions/tree/master/Covid_Coding_Program) |
+| Data Science - Online Mentor | Education Outreach Program - Girlscript Foundation | March 25th-30th, 2020 | [Github repo](https://github.com/Anpr1211/Talks-and-Sessions/tree/master/Covid_Coding_Program) |
