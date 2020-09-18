@@ -1,4 +1,4 @@
-## Resources 
+## Talks given
 
 | Title | Event | Date | Link |
 | --- | --- | --- | --- |
